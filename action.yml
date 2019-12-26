@@ -19,9 +19,9 @@ inputs:
   #   default: actions/github-script
   # previews:
   #   description: A comma-separated list of API previews to accept
-outputs:
-  result:
-    description: The return value of the script, stringified with `JSON.stringify`
+# outputs:
+#   result:
+#     description: The return value of the script, stringified with `JSON.stringify`
 runs:
   using: 'docker'
   main: 'Dockerfile'
