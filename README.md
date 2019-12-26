@@ -1,1 +1,1 @@
-# github-psscript
+# github powershell script
