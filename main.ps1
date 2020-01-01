@@ -1,1 +1,3 @@
+"Hello World"
+
 $env:script
